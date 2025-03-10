@@ -1,8 +1,14 @@
 ## Purpose
 
 What is the purpose of this PR?
+
 What is the associated Jira ticket?
+
 If there is no ticket, should there be a new ticket created?
+
+#### If this repository is using conventional commits and squash merging is enabled:
+Format the Pull request title as a conventional commit e.g. "fix: typo in important URL". The PR title will become the commit title after squashing.
+#### Otherwise:
 Use the format {Ticket ID}:{PR Title} for naming this PR. If the ticket doesn't exist, set it to ticket 0.
 
 
